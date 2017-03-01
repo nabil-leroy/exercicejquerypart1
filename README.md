@@ -1,0 +1,1 @@
+# exercicejquerypart1
